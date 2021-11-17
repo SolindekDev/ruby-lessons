@@ -21,5 +21,14 @@ puts example_variable3.include?("dd") # false
 # Index of string variable
 example_variable4 = "fdasdadas"
 #                     /\ --> a
+#                    012345678
 puts example_variable4[2] # a
 
+example_variable4 = "fdasdadas"
+#                   /   \ --> fda
+#                    012345678
+puts example_variable4[0,3] # fda
+
+# Where is in index a character
+example_variable5 = "dasdasdada"
+puts example_variable5.index("a") # 1

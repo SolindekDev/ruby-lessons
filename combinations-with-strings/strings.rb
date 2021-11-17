@@ -15,5 +15,11 @@ example_variable3 = "dsadsadads"
 puts example_variable3.length() # 10
 
 # Include
-example_variable3 = "dsadsadads"
+example_variable4 = "dsadsadads"
 puts example_variable3.include?("dd") # false 
+
+# Index of string variable
+example_variable4 = "fdasdadas"
+#                     /\ --> a
+puts example_variable4[2] # a
+

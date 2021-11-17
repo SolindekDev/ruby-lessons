@@ -9,5 +9,5 @@ My repository where I learn ruby... but this repository have so much knowledge s
 - [Methods (functions)](https://github.com/SolindekDev/ruby-learning/tree/main/methods-more-like-functions)
 
 # Lines of code
-in this projects i spend 8898 lines of code in ruby
+in this projects i spend 8898 characters of code in ruby
 [info](https://api.github.com/repos/SolindekDev/ruby-learning/languages)

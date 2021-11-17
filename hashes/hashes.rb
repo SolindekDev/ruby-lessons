@@ -1,17 +1,17 @@
 # With strings
 
-objects = {
+hashes = {
     "BigSolindek" => "Big solindek",
     "SmallSolindek" => "Small solindek"
 }
 
-puts objects["BigSolindek"]
+puts hashes["BigSolindek"]
 
 # With names
 
-objects1 = {
+hashes1 = {
     :BigSolindek => "Big solindek1",
     :SmallSolindek => "Small solindek1"
 }
 
-puts objects1[:BigSolindek]
+puts hashes1[:BigSolindek]

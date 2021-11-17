@@ -3,8 +3,7 @@
 # puts "Write down your height"
 # height = gets().chomp.to_i
 
-# # result = weight / (height * height) * 10000.0
-# result = weight / (height)
+# result = weight / (height * height) * 10000.0
 
 # puts "#{result}"
 

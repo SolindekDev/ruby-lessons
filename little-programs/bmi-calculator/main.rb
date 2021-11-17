@@ -1,15 +1,16 @@
-# puts "Write down your weight"
-# weight = gets().chomp.to_i
-# puts "Write down your height"
-# height = gets().chomp.to_i
+puts "Write down your weight"
+weight = gets.to_f
+puts "Write down your height"
+height = gets.to_f
 
-# # result = weight / (height * height) * 10000.0
-# result = weight / (height)
+result = weight / (height * height) 
 
-# puts "#{result}"
+puts "#{result}"
 
 # -----------------------------------
 #
-#           Not works ;(
+#         Thanks for help
+#          KaYn with math
+#         im not smart guy
 #
 # -----------------------------------

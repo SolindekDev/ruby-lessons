@@ -15,7 +15,6 @@ end
 
 # For array
 
-# Kc <3
 friends = ["KaYn", "Kłapouch", "Nes0x"]
 
 for friend in friends
